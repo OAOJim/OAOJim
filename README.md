@@ -1,16 +1,15 @@
-## Hi there 👋
+<a id="readme-top"></a>
 
-<!--
-**OAOJim/OAOJim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- PROJECT SHIELDS -->
+[![Followers][followers-shield]][followers-url]
+[![Stars][stars-shield]][stars-url]
+<!-- PROJECT LOGO -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+[stars-shield]: https://img.shields.io/github/stars/OAOJim?style=for-the-badge&logo=github&logoSize=28&color=gold
+[stars-url]: https://github.com/OAOJim?tab=repositories
+[followers-shield]: https://img.shields.io/github/followers/OAOJim?style=for-the-badge&logo=github&logoSize=28&color=red
+[followers-url]: https://github.com/OAOJim?tab=repositories
