@@ -1,8 +1,1 @@
-<svg height="200" width="200">
-  <defs>
-    <clipPath id="circleView">
-      <circle cx="100" cy="100" r="100" fill="#FFFFFF" />
-    </clipPath>
-  </defs>
-  <image clip-path="url(#circleView)" height="200" width="200" xlink:href="https://avatars.githubusercontent.com/u/193176895?v=4"/>
-</svg>
+
